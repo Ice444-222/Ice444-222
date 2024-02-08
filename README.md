@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄 My name is Aleksandr.
 I graduated from Russian Technological University with bachelor degree in information systems. Currently learning and doing various projects on Python.
 
 <!--
